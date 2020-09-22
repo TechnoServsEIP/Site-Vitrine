@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/servInfo.png
-  image_webp : images/servInfo.png
+  image : images/dashboard.gif
+  image_webp : images/dashboard.gif
   title : Ergonomic interface
   content : "The easiest way to make a gaming server"
   feature_item :
