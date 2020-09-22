@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg.png"
+  bg_image_webp : "images/backgrounds/bg.png"
+  title : "Create your own server with us"
+  content : "Just click the button to get started."
+  button:
+    enable : true
+    label : "Start a server with us"
+    link : "#contact"

@@ -1,0 +1,20 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg.png"
+  bg_image_webp : "images/backgrounds/bg.png"
+  counter_item:
+    # counter item loop
+    - title : "active player"
+      icon : "ti-world" # themify icon pack : https://themify.me/themify-icons
+      count : "25"
+
+    # counter item loop
+    - title : "Server Online"
+      icon : "ti-server" # themify icon pack : https://themify.me/themify-icons
+      count : "15"
+
+    # counter item loop
+    - title : "Positive feedback"
+      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
+      count : "158"

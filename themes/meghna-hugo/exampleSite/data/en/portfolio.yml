@@ -1,0 +1,14 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Compatible Games
+  portfolio_item :
+    # portfolio item loop
+    - name : Minecraft
+      image : images/portfolio/minecraft.jpg
+      image_webp : images/portfolio/minecraft.jpg
+      categories : ["Adventure"]
+      content : If you can dream it, you can build it.
+      link : "https://www.minecraft.net/fr-fr"
+
+

@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/servInfo.png
+  image_webp : images/servInfo.png
+  title : Ergonomic interface
+  content : "The easiest way to make a gaming server"
+  feature_item :
+      # feature item loop
+    - title : World Coverage
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : You can play from anywhere in the world.
+
+      # feature item loop
+    - title : Easy Customization
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Just get the package who suits you best.
+
+      # feature item loop
+    - title : An ever growing community
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Join a community of 1000 players
+
+      # feature item loop
+    - title : Get your voice heard
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Join our discord server and share your idea with the team or other players and together we can change the way we play games.

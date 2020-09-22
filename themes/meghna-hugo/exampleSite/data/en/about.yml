@@ -1,0 +1,14 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Custom made
+    content : We build our solution around our customers to give them the best offer for their projects.
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Works every time
+    content : Don't lose time setting up your server just go and play we do the rest.
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Always listening
+    content : With our ever growing community we like to get challengend and inovate to give the best we can to you.

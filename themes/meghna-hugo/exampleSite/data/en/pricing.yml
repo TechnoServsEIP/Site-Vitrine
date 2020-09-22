@@ -1,0 +1,17 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Our Plans
+  pricing_table :
+    # pricing table loop
+    - name : Starter
+      price : 12€
+      unit : month
+      services:
+        - 1GB Disk Space
+        - 10 people simultaneously
+        - 24/7 Tech Support
+      button:
+        label : "Signup"
+        link : "#"
+
