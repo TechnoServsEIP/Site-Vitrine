@@ -8,4 +8,4 @@ cta:
   button:
     enable : true
     label : "Start a server with us"
-    link : "#contact"
+    link : "https://technoservs.ichbinkour.eu"

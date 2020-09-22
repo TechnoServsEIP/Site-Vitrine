@@ -9,4 +9,4 @@ banner:
   button:
     enable : true
     label : "For sure"
-    link : "#services"
+    URL : "https://technoservs.ichbinkour.eu"
